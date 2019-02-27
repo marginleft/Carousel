@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CarouselView">
+        <attr name="cv_width" format="dimension"/>
+        <attr name="cv_height" format="dimension"/>
+        <attr name="cv_leftMargin" format="dimension"/>
+        <attr name="cv_bottomMargin" format="dimension"/>
+    </declare-styleable>
+</resources>
