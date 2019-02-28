@@ -19,6 +19,9 @@ import java.util.List;
 
 /**
  * Created by L on 2017/2/21.
+ * 未实现切换的动画样式，可以配置如下代码实现。
+ * pager.setPageTransformer(true, new RotateUpTransformer());
+ * 具体的实现代码可借鉴 https://github.com/ToxicBakery/ViewPagerTransforms 。
  *
  * @描述 轮播图。
  */
